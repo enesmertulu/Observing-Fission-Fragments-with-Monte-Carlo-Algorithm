@@ -10,7 +10,8 @@ The white region is the fuel region which is the centre of the sphere. The blue-
 is the shell region. In every fission, two fission fragments are produced in opposite directions
 at random points in the fuel region as shown in Figure 1.
 
-![image](https://github.com/enesmertulu/Observing-Fission-Fragments-with-Monte-Carlo-Algorithm/assets/95104931/aee48578-24a2-4b7e-af5d-2d645a93b926)
+![image](https://github.com/enesmertulu/Observing-Fission-Fragments-with-Monte-Carlo-Algorithm/assets/95104931/f4066376-67a5-493e-aa8e-b02fb932566c)
+
 
 Figure 1 – The Sphere Region and the Fission Event with Fission Products
 
