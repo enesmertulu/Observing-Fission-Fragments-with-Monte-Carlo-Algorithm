@@ -1,0 +1,82 @@
+For 10 Fissions
+
+None particle escaped per fission number = 5
+One particle escaped per fission number = 5
+Two particles escaped per fission number = 0
+One particle absorbed per fission number = 1
+Two particles absorbed per fission number = 0
+Escape Probability from the Fuel Region = 50.0
+Absorption Probability in the Shell Region = 10.0
+
+For 100 Fissions
+
+None particle escaped per fission number = 66
+One particle escaped per fission number = 34
+Two particles escaped per fission number = 0
+One particle absorbed per fission number = 14
+Two particles absorbed per fission number = 0
+Escape Probability from the Fuel Region = 34.0
+Absorption Probability in the Shell Region = 14.000000000000002
+
+For 1 000 Fissions
+
+None particle escaped per fission number = 770
+One particle escaped per fission number = 227
+Two particles escaped per fission number = 3
+One particle absorbed per fission number = 97
+Two particles absorbed per fission number = 0
+Escape Probability from the Fuel Region = 23.3
+Absorption Probability in the Shell Region = 9.700000000000001
+
+For 10 000 Fissions
+
+None particle escaped per fission number = 7683
+One particle escaped per fission number = 2308
+Two particles escaped per fission number = 9
+One particle absorbed per fission number = 1083
+Two particles absorbed per fission number = 3
+Escape Probability from the Fuel Region = 23.26
+Absorption Probability in the Shell Region = 10.89
+
+For 100 000 Fissions
+
+None particle escaped per fission number = 76969
+One particle escaped per fission number = 22863
+Two particles escaped per fission number = 168
+One particle absorbed per fission number = 10645
+Two particles absorbed per fission number = 36
+Escape Probability from the Fuel Region = 23.199
+Absorption Probability in the Shell Region = 10.717
+
+For 1 000 000 Fissions
+
+None particle escaped per fission number = 771375
+One particle escaped per fission number = 226950
+Two particles escaped per fission number = 1675
+One particle absorbed per fission number = 105812
+Two particles absorbed per fission number = 433
+Escape Probability from the Fuel Region = 23.03
+Absorption Probability in the Shell Region = 10.6678
+
+For 10 000 000 Fissions
+
+None particle escaped per fission number = 7721102
+One particle escaped per fission number = 2261881
+Two particles escaped per fission number = 17017
+One particle absorbed per fission number = 1055530
+Two particles absorbed per fission number = 4337
+Escape Probability from the Fuel Region = 22.95915
+Absorption Probability in the Shell Region = 10.64204
+
+For 100 000 000 Fissions
+
+None particle escaped per fission number = 77211537
+One particle escaped per fission number = 22617710
+Two particles escaped per fission number = 170753
+One particle absorbed per fission number = 10552936
+Two particles absorbed per fission number = 43524
+Escape Probability from the Fuel Region = 22.959215999999998
+Absorption Probability in the Shell Region = 10.639984
+
+
+Process finished with exit code 0
